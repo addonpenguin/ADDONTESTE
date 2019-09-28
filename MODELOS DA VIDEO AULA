@@ -1,0 +1,31 @@
+MODELO COM VARIOS LINKS
+
+<item>
+<title>TITULO</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
+<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGENS DE FUNDO</fanart>
+<info>SINOPE</info>
+</item>
+
+MODELO GDRIVE DE APENAS UM LINK
+
+<item>
+<title>TITULO</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGENS DE FUNDO</fanart>
+<info>SINOPE</info>
+</item>
+
+MODELO UNIVERSAL DE APENAS UM LINK
+
+<item>
+<title>TITULO</title>
+<link></link>
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGENS DE FUNDO</fanart>
+<info>SINOPE</info>
+</item>
