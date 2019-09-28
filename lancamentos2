@@ -1,33 +1,33 @@
 MODELO COM VARIOS LINKS
 
 <item>
-<title>COLETÂNEA ACE VENTURA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HydTrNiuLwzBg5ANyGnaZ3Pid6jqAw9z/view$$lsname=[COLOR lime]FULLHD[/COLOR] - ACE VENTURA 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B27JNuQ_MsxMKFT7wlZbscsZQSviPf5L/view$$lsname=[COLOR lime]FULLHD[/COLOR] - ACE VENTURA 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nipniQXx6UFZ9_7KH444KqPdz8ft71zq/view$$lsname=[COLOR lime]FULLHD[/COLOR] - ACE VENTURA 3</link>
-<link>http://cdnfe3.azureedge.net/RCFServer3/ondemand/OFLHDACVNTURA.mp4?attachment=true$$lsname=[COLOR lime]FULLHD[/COLOR] - ACE VENTURA 3 RC</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2WsM7e0sv3IM3BgTKKesY1dAOt.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/fAX6bvEKcWQmZMlB5NZzSoJkRuG.jpg</fanart>
-<info>Ace Ventura (Jim Carrey) é um detetive especializado em desvendar crimes envolvendo animais. Vive cercado de bichos, mas não tem muito trabalho. O desaparecimento de um golfinho, mascote da equipe de futebol americano Miami Dolphins, aparentemente seqüestrado, torna-se seu primeiro grande caso. Atrapalhado como é, Ace conduz a investigação de uma maneira bem peculiar.</info>
+<title>TITULO - [COLOR yellow](ANO DE LANÇAMENTO)[/COLOR] [COLOR lime]RESOLUÇÃO DO FILME[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - INDENTIFICAÇÃO DO ARQUIVO</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - INDENTIFICAÇÃO DO ARQUIVO</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - INDENTIFICAÇÃO DO ARQUIVO</link>
+<link>URL AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - INDENTIFICAÇÃO DO ARQUIVO</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<info>SINOPE</info>
 </item>
 
 MODELO GDRIVE DE APENAS UM LINK
 
 <item>
-<title>CRAWL - [COLOR yellow]2019[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ncz3menZYgQo_DTaswj8IfQqWFUga9r2/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHQVG6oXMD2ahn1BQp6hAL9Mf4J.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/lm4xH0YwFbVvTgdtau1thNK5S6J.jpg</fanart>
-<info>Uma mulher e seu pai ferido ficam presos pelas águas da enchente em sua casa durante um furacão. Com a tempestade aumentando, eles logo descobrem uma ameaça ainda maior do que a água: um ataque implacável de um bando de jacarés gigantes.</info>
+<title>TITULO - [COLOR yellow](ANO DE LANÇAMENTO)[/COLOR] [COLOR lime]RESOLUÇÃO DO FILME[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<info>SINOPE</info>
 </item>
 
 MODELO UNIVERSAL DE APENAS UM LINK
 
 <item>
-<title>ACE VENTURA 3 REDECANAIS</title>
-<link>http://cdnfe3.azureedge.net/RCFServer3/ondemand/OFLHDACVNTURA.mp4?attachment=true</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PO7jnvjwjS33Gt2lqh4HAMhmPY.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3PTJ2vJQtzqVosCXEPqhHHRa0uS.jpg</fanart>
-<info>Parece brincadeira. O detetive de animais mais famoso do mundo agora tem um filho. A história é a seguinte: depois da aventura na Mama África, Ace Ventura retorna à Flórida e casa com a namorada Melissa Robinson (interpretada no primeiro filme pela friend Courteney Cox, e na seqüência por Ann Cusack), e tem com ela um filho. Mas como o detetive não consegue parar quieto, a curiosidade acabou o levando a um caso bem remoto, e nunca mais ninguém viu nem ouviu falar no topetudo.</info>
+<title>TITULO - [COLOR yellow](ANO DE LANÇAMENTO)[/COLOR] [COLOR lime]RESOLUÇÃO DO FILME[/COLOR]</title>
+<link>URL AQUI</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<info>SINOPE</info>
 </item>
 
